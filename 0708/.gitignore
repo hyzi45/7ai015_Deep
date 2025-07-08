@@ -1,0 +1,11 @@
+# YOLO 모델 가중치
+*.weights
+*.pt
+
+# 클래스 이름 파일
+*.names
+
+# 캐시 폴더, 가상환경, 로그 등
+__pycache__/
+venv/
+*.log
